@@ -33,4 +33,4 @@ Deep Learning/Modeling (Optional - adjust as needed): TensorFlow/Keras (if a seg
 
 Environment: Google Colab / Jupyter Notebooks.
 
-Credits Prepared by IIT Bombay Interns - Devraj Mane & Krutika Kamble.
+Credits Prepared by IIT Bombay Interns -  Krutika Kamble and Devraj Mane .
